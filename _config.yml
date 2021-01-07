@@ -38,13 +38,13 @@ image_processing:
   large:
     source: photos/original
     destination: photos/large
-    resize_to_limit: [2048, 2048]
+    resize_to_limit: [4086, 4086]
     saver:
       strip: true
   thumbnail:
     source: photos/original
     destination: photos/thumbnail
-    resize_to_limit: [640, 640]
+    resize_to_limit: [1920, 1920]
     saver:
       strip: true
   tint:
