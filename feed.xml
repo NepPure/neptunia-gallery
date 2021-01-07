@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
   <feed xmlns="http://www.w3.org/2005/Atom">
-    <generator uri="https://github.com/NepPure/neptunia-gallery">Neptunia Gallery</generator>
+    <generator uri="https://github.com/NepPure/neptunia-gallery">手办画廊 @NepPure</generator>
     <link href="https://www.neptunia.vip/feed.xml" rel="self" type="application/atom+xml" />
     <link href="https://www.neptunia.vip/" rel="alternate" type="text/html"/>
-    <updated>2021-01-07T07:45:45+00:00</updated>
-    <id>2021-01-07T07:45:45+00:00</id>
-    <title type="html">Neptunia Gallery</title>
-    <subtitle>@Neptunia Gallery for NepPure.</subtitle>
+    <updated>2021-01-07T07:47:58+00:00</updated>
+    <id>2021-01-07T07:47:58+00:00</id>
+    <title type="html">手办画廊 @NepPure</title>
+    <subtitle>@手办画廊 for NepPure.</subtitle>
     <author>
       <name>NepPure</name>
       <email>oyyz@vip.qq.com</email>
