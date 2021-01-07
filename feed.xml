@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <generator uri="https://github.com/maxvoltar/photo-stream">Photo Stream by @maxvoltar</generator>
+    <link href="https://www.neptunia.vip/feed.xml" rel="self" type="application/atom+xml" />
+    <link href="https://www.neptunia.vip/" rel="alternate" type="text/html"/>
+    <updated>2021-01-07T06:23:00+00:00</updated>
+    <id>2021-01-07T06:23:00+00:00</id>
+    <title type="html">Neptunia Gallery</title>
+    <subtitle>@Neptunia Gallery for NepPure.</subtitle>
+    <author>
+      <name>NepPure</name>
+      <email>oyyz@vip.qq.com</email>
+      <uri>https://www.neptunia.vip/</uri>
+    </author>
+    <entry>
+      <title type="html">Purple Nights</title>
+      <link href="https://www.neptunia.vip/purple-nights/" rel="alternate" type="text/html" title="Purple Nights" />
+      <published>2020-07-31T09:30:07+00:00</published>
+      <updated>2020-07-31T09:30:07+00:00</updated>
+      <id>https://www.neptunia.vip//purple-nights/</id>
+      <content type="html">
+        <![CDATA[<figure><a href="https://www.neptunia.vip/purple-nights/"><img src="https://www.neptunia.vip//photos/large/Purple%20Nights-686656.jpg" alt="Purple Nights" /></a></figure>
+      ]]>
+    </content>
+    <author>
+      <name>NepPure</name>
+      <email>oyyz@vip.qq.com</email>
+      <uri>https://www.neptunia.vip/</uri>
+    </author>
+    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/Purple%20Nights-686656.jpg" />
+      <media:content medium="image" url="https://www.neptunia.vip//photos/large/Purple%20Nights-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+      </entry>
+      <entry>
+        <title type="html">Åsgeir</title>
+        <link href="https://www.neptunia.vip/åsgeir/" rel="alternate" type="text/html" title="Åsgeir" />
+        <published></published>
+        <updated></updated>
+        <id>https://www.neptunia.vip//åsgeir/</id>
+        <content type="html">
+          <![CDATA[<figure><a href="https://www.neptunia.vip/åsgeir/"><img src="https://www.neptunia.vip//photos/large/%C3%85sgeir-686656.jpg" alt="Åsgeir" /></a></figure>
+        ]]>
+      </content>
+      <author>
+        <name>NepPure</name>
+        <email>oyyz@vip.qq.com</email>
+        <uri>https://www.neptunia.vip/</uri>
+      </author>
+      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/%C3%85sgeir-686656.jpg" />
+        <media:content medium="image" url="https://www.neptunia.vip//photos/large/%C3%85sgeir-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+        </entry>
+        <entry>
+          <title type="html">ZA</title>
+          <link href="https://www.neptunia.vip/za/" rel="alternate" type="text/html" title="ZA" />
+          <published></published>
+          <updated></updated>
+          <id>https://www.neptunia.vip//za/</id>
+          <content type="html">
+            <![CDATA[<figure><a href="https://www.neptunia.vip/za/"><img src="https://www.neptunia.vip//photos/large/ZA-686656.jpg" alt="ZA" /></a></figure>
+          ]]>
+        </content>
+        <author>
+          <name>NepPure</name>
+          <email>oyyz@vip.qq.com</email>
+          <uri>https://www.neptunia.vip/</uri>
+        </author>
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/ZA-686656.jpg" />
+          <media:content medium="image" url="https://www.neptunia.vip//photos/large/ZA-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+          </entry>
+          <entry>
+            <title type="html">Yelle</title>
+            <link href="https://www.neptunia.vip/yelle/" rel="alternate" type="text/html" title="Yelle" />
+            <published></published>
+            <updated></updated>
+            <id>https://www.neptunia.vip//yelle/</id>
+            <content type="html">
+              <![CDATA[<figure><a href="https://www.neptunia.vip/yelle/"><img src="https://www.neptunia.vip//photos/large/Yelle-686656.jpg" alt="Yelle" /></a></figure>
+            ]]>
+          </content>
+          <author>
+            <name>NepPure</name>
+            <email>oyyz@vip.qq.com</email>
+            <uri>https://www.neptunia.vip/</uri>
+          </author>
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/Yelle-686656.jpg" />
+            <media:content medium="image" url="https://www.neptunia.vip//photos/large/Yelle-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+            </entry>
+            <entry>
+              <title type="html">White From Pier</title>
+              <link href="https://www.neptunia.vip/white-from-pier/" rel="alternate" type="text/html" title="White From Pier" />
+              <published></published>
+              <updated></updated>
+              <id>https://www.neptunia.vip//white-from-pier/</id>
+              <content type="html">
+                <![CDATA[<figure><a href="https://www.neptunia.vip/white-from-pier/"><img src="https://www.neptunia.vip//photos/large/White%20From%20Pier-686656.jpg" alt="White From Pier" /></a></figure>
+              ]]>
+            </content>
+            <author>
+              <name>NepPure</name>
+              <email>oyyz@vip.qq.com</email>
+              <uri>https://www.neptunia.vip/</uri>
+            </author>
+            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/White%20From%20Pier-686656.jpg" />
+              <media:content medium="image" url="https://www.neptunia.vip//photos/large/White%20From%20Pier-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+              </entry>
+              <entry>
+                <title type="html">Von Sell</title>
+                <link href="https://www.neptunia.vip/von-sell/" rel="alternate" type="text/html" title="Von Sell" />
+                <published></published>
+                <updated></updated>
+                <id>https://www.neptunia.vip//von-sell/</id>
+                <content type="html">
+                  <![CDATA[<figure><a href="https://www.neptunia.vip/von-sell/"><img src="https://www.neptunia.vip//photos/large/Von%20Sell-686656.jpg" alt="Von Sell" /></a></figure>
+                ]]>
+              </content>
+              <author>
+                <name>NepPure</name>
+                <email>oyyz@vip.qq.com</email>
+                <uri>https://www.neptunia.vip/</uri>
+              </author>
+              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/Von%20Sell-686656.jpg" />
+                <media:content medium="image" url="https://www.neptunia.vip//photos/large/Von%20Sell-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                </entry>
+                <entry>
+                  <title type="html">Viñales</title>
+                  <link href="https://www.neptunia.vip/viñales/" rel="alternate" type="text/html" title="Viñales" />
+                  <published></published>
+                  <updated></updated>
+                  <id>https://www.neptunia.vip//viñales/</id>
+                  <content type="html">
+                    <![CDATA[<figure><a href="https://www.neptunia.vip/viñales/"><img src="https://www.neptunia.vip//photos/large/Vi%C3%B1ales-686656.jpg" alt="Viñales" /></a></figure>
+                  ]]>
+                </content>
+                <author>
+                  <name>NepPure</name>
+                  <email>oyyz@vip.qq.com</email>
+                  <uri>https://www.neptunia.vip/</uri>
+                </author>
+                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/Vi%C3%B1ales-686656.jpg" />
+                  <media:content medium="image" url="https://www.neptunia.vip//photos/large/Vi%C3%B1ales-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                  </entry>
+                  <entry>
+                    <title type="html">Verrazano in the Mist</title>
+                    <link href="https://www.neptunia.vip/verrazano-in-the-mist/" rel="alternate" type="text/html" title="Verrazano in the Mist" />
+                    <published></published>
+                    <updated></updated>
+                    <id>https://www.neptunia.vip//verrazano-in-the-mist/</id>
+                    <content type="html">
+                      <![CDATA[<figure><a href="https://www.neptunia.vip/verrazano-in-the-mist/"><img src="https://www.neptunia.vip//photos/large/Verrazano%20in%20the%20Mist-686656.jpg" alt="Verrazano in the Mist" /></a></figure>
+                    ]]>
+                  </content>
+                  <author>
+                    <name>NepPure</name>
+                    <email>oyyz@vip.qq.com</email>
+                    <uri>https://www.neptunia.vip/</uri>
+                  </author>
+                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/Verrazano%20in%20the%20Mist-686656.jpg" />
+                    <media:content medium="image" url="https://www.neptunia.vip//photos/large/Verrazano%20in%20the%20Mist-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                    </entry>
+                    <entry>
+                      <title type="html">Venga</title>
+                      <link href="https://www.neptunia.vip/venga/" rel="alternate" type="text/html" title="Venga" />
+                      <published></published>
+                      <updated></updated>
+                      <id>https://www.neptunia.vip//venga/</id>
+                      <content type="html">
+                        <![CDATA[<figure><a href="https://www.neptunia.vip/venga/"><img src="https://www.neptunia.vip//photos/large/Venga-686656.jpg" alt="Venga" /></a></figure>
+                      ]]>
+                    </content>
+                    <author>
+                      <name>NepPure</name>
+                      <email>oyyz@vip.qq.com</email>
+                      <uri>https://www.neptunia.vip/</uri>
+                    </author>
+                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/Venga-686656.jpg" />
+                      <media:content medium="image" url="https://www.neptunia.vip//photos/large/Venga-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                      </entry>
+                      <entry>
+                        <title type="html">Umbrella Alhambra</title>
+                        <link href="https://www.neptunia.vip/umbrella-alhambra/" rel="alternate" type="text/html" title="Umbrella Alhambra" />
+                        <published></published>
+                        <updated></updated>
+                        <id>https://www.neptunia.vip//umbrella-alhambra/</id>
+                        <content type="html">
+                          <![CDATA[<figure><a href="https://www.neptunia.vip/umbrella-alhambra/"><img src="https://www.neptunia.vip//photos/large/Umbrella%20Alhambra-686656.jpg" alt="Umbrella Alhambra" /></a></figure>
+                        ]]>
+                      </content>
+                      <author>
+                        <name>NepPure</name>
+                        <email>oyyz@vip.qq.com</email>
+                        <uri>https://www.neptunia.vip/</uri>
+                      </author>
+                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/Umbrella%20Alhambra-686656.jpg" />
+                        <media:content medium="image" url="https://www.neptunia.vip//photos/large/Umbrella%20Alhambra-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                        </entry>
+                        <entry>
+                          <title type="html">UMO</title>
+                          <link href="https://www.neptunia.vip/umo/" rel="alternate" type="text/html" title="UMO" />
+                          <published></published>
+                          <updated></updated>
+                          <id>https://www.neptunia.vip//umo/</id>
+                          <content type="html">
+                            <![CDATA[<figure><a href="https://www.neptunia.vip/umo/"><img src="https://www.neptunia.vip//photos/large/UMO-686656.jpg" alt="UMO" /></a></figure>
+                          ]]>
+                        </content>
+                        <author>
+                          <name>NepPure</name>
+                          <email>oyyz@vip.qq.com</email>
+                          <uri>https://www.neptunia.vip/</uri>
+                        </author>
+                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/UMO-686656.jpg" />
+                          <media:content medium="image" url="https://www.neptunia.vip//photos/large/UMO-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                          </entry>
+                          <entry>
+                            <title type="html">U2 Roma</title>
+                            <link href="https://www.neptunia.vip/u2-roma/" rel="alternate" type="text/html" title="U2 Roma" />
+                            <published></published>
+                            <updated></updated>
+                            <id>https://www.neptunia.vip//u2-roma/</id>
+                            <content type="html">
+                              <![CDATA[<figure><a href="https://www.neptunia.vip/u2-roma/"><img src="https://www.neptunia.vip//photos/large/U2%20Roma-686656.jpg" alt="U2 Roma" /></a></figure>
+                            ]]>
+                          </content>
+                          <author>
+                            <name>NepPure</name>
+                            <email>oyyz@vip.qq.com</email>
+                            <uri>https://www.neptunia.vip/</uri>
+                          </author>
+                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/U2%20Roma-686656.jpg" />
+                            <media:content medium="image" url="https://www.neptunia.vip//photos/large/U2%20Roma-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                            </entry>
+                            <entry>
+                              <title type="html">Tonel</title>
+                              <link href="https://www.neptunia.vip/tonel/" rel="alternate" type="text/html" title="Tonel" />
+                              <published></published>
+                              <updated></updated>
+                              <id>https://www.neptunia.vip//tonel/</id>
+                              <content type="html">
+                                <![CDATA[<figure><a href="https://www.neptunia.vip/tonel/"><img src="https://www.neptunia.vip//photos/large/Tonel-686656.jpg" alt="Tonel" /></a></figure>
+                              ]]>
+                            </content>
+                            <author>
+                              <name>NepPure</name>
+                              <email>oyyz@vip.qq.com</email>
+                              <uri>https://www.neptunia.vip/</uri>
+                            </author>
+                            <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/Tonel-686656.jpg" />
+                              <media:content medium="image" url="https://www.neptunia.vip//photos/large/Tonel-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                              </entry>
+                              <entry>
+                                <title type="html">Tim Minchin</title>
+                                <link href="https://www.neptunia.vip/tim-minchin/" rel="alternate" type="text/html" title="Tim Minchin" />
+                                <published></published>
+                                <updated></updated>
+                                <id>https://www.neptunia.vip//tim-minchin/</id>
+                                <content type="html">
+                                  <![CDATA[<figure><a href="https://www.neptunia.vip/tim-minchin/"><img src="https://www.neptunia.vip//photos/large/Tim%20Minchin-686656.jpg" alt="Tim Minchin" /></a></figure>
+                                ]]>
+                              </content>
+                              <author>
+                                <name>NepPure</name>
+                                <email>oyyz@vip.qq.com</email>
+                                <uri>https://www.neptunia.vip/</uri>
+                              </author>
+                              <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/Tim%20Minchin-686656.jpg" />
+                                <media:content medium="image" url="https://www.neptunia.vip//photos/large/Tim%20Minchin-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                </entry>
+                                <entry>
+                                  <title type="html">Thom</title>
+                                  <link href="https://www.neptunia.vip/thom/" rel="alternate" type="text/html" title="Thom" />
+                                  <published></published>
+                                  <updated></updated>
+                                  <id>https://www.neptunia.vip//thom/</id>
+                                  <content type="html">
+                                    <![CDATA[<figure><a href="https://www.neptunia.vip/thom/"><img src="https://www.neptunia.vip//photos/large/Thom-686656.jpg" alt="Thom" /></a></figure>
+                                  ]]>
+                                </content>
+                                <author>
+                                  <name>NepPure</name>
+                                  <email>oyyz@vip.qq.com</email>
+                                  <uri>https://www.neptunia.vip/</uri>
+                                </author>
+                                <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/Thom-686656.jpg" />
+                                  <media:content medium="image" url="https://www.neptunia.vip//photos/large/Thom-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                  </entry>
+                                  <entry>
+                                    <title type="html">The Shins</title>
+                                    <link href="https://www.neptunia.vip/the-shins/" rel="alternate" type="text/html" title="The Shins" />
+                                    <published></published>
+                                    <updated></updated>
+                                    <id>https://www.neptunia.vip//the-shins/</id>
+                                    <content type="html">
+                                      <![CDATA[<figure><a href="https://www.neptunia.vip/the-shins/"><img src="https://www.neptunia.vip//photos/large/The%20Shins-686656.jpg" alt="The Shins" /></a></figure>
+                                    ]]>
+                                  </content>
+                                  <author>
+                                    <name>NepPure</name>
+                                    <email>oyyz@vip.qq.com</email>
+                                    <uri>https://www.neptunia.vip/</uri>
+                                  </author>
+                                  <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/The%20Shins-686656.jpg" />
+                                    <media:content medium="image" url="https://www.neptunia.vip//photos/large/The%20Shins-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                    </entry>
+                                    <entry>
+                                      <title type="html">Thanks</title>
+                                      <link href="https://www.neptunia.vip/thanks/" rel="alternate" type="text/html" title="Thanks" />
+                                      <published></published>
+                                      <updated></updated>
+                                      <id>https://www.neptunia.vip//thanks/</id>
+                                      <content type="html">
+                                        <![CDATA[<figure><a href="https://www.neptunia.vip/thanks/"><img src="https://www.neptunia.vip//photos/large/Thanks-686656.jpg" alt="Thanks" /></a></figure>
+                                      ]]>
+                                    </content>
+                                    <author>
+                                      <name>NepPure</name>
+                                      <email>oyyz@vip.qq.com</email>
+                                      <uri>https://www.neptunia.vip/</uri>
+                                    </author>
+                                    <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/Thanks-686656.jpg" />
+                                      <media:content medium="image" url="https://www.neptunia.vip//photos/large/Thanks-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                      </entry>
+                                      <entry>
+                                        <title type="html">Tabanco</title>
+                                        <link href="https://www.neptunia.vip/tabanco/" rel="alternate" type="text/html" title="Tabanco" />
+                                        <published></published>
+                                        <updated></updated>
+                                        <id>https://www.neptunia.vip//tabanco/</id>
+                                        <content type="html">
+                                          <![CDATA[<figure><a href="https://www.neptunia.vip/tabanco/"><img src="https://www.neptunia.vip//photos/large/Tabanco-686656.jpg" alt="Tabanco" /></a></figure>
+                                        ]]>
+                                      </content>
+                                      <author>
+                                        <name>NepPure</name>
+                                        <email>oyyz@vip.qq.com</email>
+                                        <uri>https://www.neptunia.vip/</uri>
+                                      </author>
+                                      <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/Tabanco-686656.jpg" />
+                                        <media:content medium="image" url="https://www.neptunia.vip//photos/large/Tabanco-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                        </entry>
+                                        <entry>
+                                          <title type="html">Sénanque</title>
+                                          <link href="https://www.neptunia.vip/sénanque/" rel="alternate" type="text/html" title="Sénanque" />
+                                          <published></published>
+                                          <updated></updated>
+                                          <id>https://www.neptunia.vip//sénanque/</id>
+                                          <content type="html">
+                                            <![CDATA[<figure><a href="https://www.neptunia.vip/sénanque/"><img src="https://www.neptunia.vip//photos/large/S%C3%A9nanque-686656.jpg" alt="Sénanque" /></a></figure>
+                                          ]]>
+                                        </content>
+                                        <author>
+                                          <name>NepPure</name>
+                                          <email>oyyz@vip.qq.com</email>
+                                          <uri>https://www.neptunia.vip/</uri>
+                                        </author>
+                                        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/S%C3%A9nanque-686656.jpg" />
+                                          <media:content medium="image" url="https://www.neptunia.vip//photos/large/S%C3%A9nanque-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                          </entry>
+                                          <entry>
+                                            <title type="html">Sunset for 3</title>
+                                            <link href="https://www.neptunia.vip/sunset-for-3/" rel="alternate" type="text/html" title="Sunset for 3" />
+                                            <published></published>
+                                            <updated></updated>
+                                            <id>https://www.neptunia.vip//sunset-for-3/</id>
+                                            <content type="html">
+                                              <![CDATA[<figure><a href="https://www.neptunia.vip/sunset-for-3/"><img src="https://www.neptunia.vip//photos/large/Sunset%20for%203-686656.jpg" alt="Sunset for 3" /></a></figure>
+                                            ]]>
+                                          </content>
+                                          <author>
+                                            <name>NepPure</name>
+                                            <email>oyyz@vip.qq.com</email>
+                                            <uri>https://www.neptunia.vip/</uri>
+                                          </author>
+                                          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.neptunia.vip//photos/large/Sunset%20for%203-686656.jpg" />
+                                            <media:content medium="image" url="https://www.neptunia.vip//photos/large/Sunset%20for%203-686656.jpg" xmlns:media="http://search.yahoo.com/mrss/" />
+                                            </entry>
+                                          </feed>
