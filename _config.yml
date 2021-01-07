@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Neptunia Gallery
+title: 手办画廊 @NepPure
 email: oyyz@vip.qq.com
 author:
   name: NepPure
   email: oyyz@vip.qq.com
   website: https://www.neptunia.vip/
 description: >- # this means to ignore newlines until "baseurl:"
-  @Neptunia Gallery for NepPure.
+  @手办画廊 for NepPure.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.neptunia.vip/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: NepPure
