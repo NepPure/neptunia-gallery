@@ -39,7 +39,7 @@ jobs:
         run: bundle install
 
       - name: Run Jekyll
-        run: bundle exec jekyll build
+        run: bundle exec jekyll build --trace
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
