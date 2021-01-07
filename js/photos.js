@@ -7,6 +7,22 @@ container.innerHTML = html;
 openPhoto(id, url);
 lazyload();
 })(`
+<li class="item " id="紫色之心夏日" style="background-image: url('/photos/tint/%E7%B4%AB%E8%89%B2%E4%B9%8B%E5%BF%83%E5%A4%8F%E6%97%A5-65ba1d.jpg')" title="紫色之心夏日">
+  <img class="lazyload" data-src="/photos/thumbnail/%E7%B4%AB%E8%89%B2%E4%B9%8B%E5%BF%83%E5%A4%8F%E6%97%A5-ccf4df.jpg" src="/photos/tint/%E7%B4%AB%E8%89%B2%E4%B9%8B%E5%BF%83%E5%A4%8F%E6%97%A5-65ba1d.jpg" height="2305" width="4096" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/%E7%B4%AB%E8%89%B2%E4%B9%8B%E5%BF%83%E5%A4%8F%E6%97%A5-686656.jpg')"></span>
+  </span>
+  <a class="open" href="/%E7%B4%AB%E8%89%B2%E4%B9%8B%E5%BF%83%E5%A4%8F%E6%97%A5" data-target="紫色之心夏日">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/%E9%BB%91%E8%89%B2%E4%B9%8B%E5%BF%83" data-target="黑色之心" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <!-- <ul class="meta">
+    <li>Canon EOS 80D</li>
+    <li>1/4</li>
+    <li><span class="aperture"><em>f</em>/</span>16.0</li>
+	</ul> -->
+</li>
 <li class="item " id="黑色之心" style="background-image: url('/photos/tint/%E9%BB%91%E8%89%B2%E4%B9%8B%E5%BF%83-65ba1d.jpg')" title="黑色之心">
   <img class="lazyload" data-src="/photos/thumbnail/%E9%BB%91%E8%89%B2%E4%B9%8B%E5%BF%83-ccf4df.jpg" src="/photos/tint/%E9%BB%91%E8%89%B2%E4%B9%8B%E5%BF%83-65ba1d.jpg" height="2731" width="4096" />
   <span class="full">
@@ -14,6 +30,9 @@ lazyload();
   </span>
   <a class="open" href="/%E9%BB%91%E8%89%B2%E4%B9%8B%E5%BF%83" data-target="黑色之心">Open</a>
   <a class="close" href="/">Close</a>
+  <a href="/%E7%B4%AB%E8%89%B2%E4%B9%8B%E5%BF%83%E5%A4%8F%E6%97%A5" data-target="紫色之心夏日" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <a href="/%E7%B4%AB%E8%89%B2%E4%B9%8B%E5%BF%83" data-target="紫色之心" class="next" title="Go to next photo">
     <span>Next</span>
   </a>
