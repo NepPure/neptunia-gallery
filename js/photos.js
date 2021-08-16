@@ -375,6 +375,25 @@ lazyload();
   <a href="/%E5%B9%BC%E8%B4%9E-2-2" data-target="幼贞-2-2" class="previous" title="Go to previous photo">
     <span>Previous</span>
   </a>
+  <a href="/%E8%8E%89%E8%8E%89%E4%B8%9D" data-target="莉莉丝" class="next" title="Go to next photo">
+    <span>Next</span>
+  </a>
+  <!-- <ul class="meta">
+    <li></li>
+    <li></li>
+    <li><span class="aperture"><em>f</em>/</span>0.0</li>
+	</ul> -->
+</li>
+<li class="item " id="莉莉丝" style="background-image: url('/photos/tint/%E8%8E%89%E8%8E%89%E4%B8%9D-65ba1d.jpg')" title="莉莉丝">
+  <img class="lazyload" data-src="/photos/thumbnail/%E8%8E%89%E8%8E%89%E4%B8%9D-9f36bc.jpg" src="/photos/tint/%E8%8E%89%E8%8E%89%E4%B8%9D-65ba1d.jpg" height="2305" width="4096" />
+  <span class="full">
+    <span style="background-image: url('/photos/large/%E8%8E%89%E8%8E%89%E4%B8%9D-78c28e.jpg')"></span>
+  </span>
+  <a class="open" href="/%E8%8E%89%E8%8E%89%E4%B8%9D" data-target="莉莉丝">Open</a>
+  <a class="close" href="/">Close</a>
+  <a href="/%E5%B9%BC%E8%B4%9E-1-4" data-target="幼贞-1-4" class="previous" title="Go to previous photo">
+    <span>Previous</span>
+  </a>
   <!-- <ul class="meta">
     <li></li>
     <li></li>
