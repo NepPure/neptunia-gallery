@@ -1,0 +1,74 @@
+-----BEGIN CERTIFICATE-----
+MIIC6jCCAdKgAwIBAgIIZ44IqgPwQFkwDQYJKoZIhvcNAQELBQAwIDEeMBwGA1UE
+AwwV6L+m5YuS5bqV5Lq655CG5ouv5pWRMB4XDTIxMDgzMTAzNDU0NloXDTMyMDgy
+OTAzNDU0NlowIDEeMBwGA1UEAwwV6L+m5YuS5bqV5Lq655CG5ouv5pWRMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjUYDbn0YhKDvdqTEMKIB6hmexl1X
+IN0ZjRAKFezfRZwZpkTbJ6L6pflaahkmT8fCjQPm60Wa8/6SCZWT8yppoUKFonCz
+YTMRVsgRi1niObsI41lqgB4T9ejqfjch3f8yU0HMH5mq26Xg9eeMl8XjFu5E+KXs
+Modqscc3nN7MUYVmSQYLUWuf+Ttr/UJmo9ouspyjr6QOq39n/lAFuaDEY3TM5nie
+Ad9OrvYAqEl2vZXtNJdqsq5CcEWLcvCyTJtOWXZRh83feAYFkc3k12L8nLNeeTQE
+js6ff8jJusZiOmLOrwA5KCFy+lgfYmkPUflzHfpiMV+aoToqfFG+1wtRFQIDAQAB
+oygwJjATBgNVHSUEDDAKBggrBgEFBQcDATAPBgNVHRMBAf8EBTADAQH/MA0GCSqG
+SIb3DQEBCwUAA4IBAQByMb+qfAVawmqpQ7NgB4vJBmDv9Fwlt2ecITOSbhikxgvc
+rYLDlCAVDpiJ2nB2QHwvYEA/9zUSInSQucAP6HX3hVgnYcQTkTR/brQFbTO45dSa
+MoHn76LkDPnc/PdiVlWux1BNAR+R9FA7lwKMT7kCUCkqB/k3vuuyrGvE3D8Kq3k9
+3zdjiHwsMpLUKOpPu3DIWGTD0qiO/iWBZMlAkWdmt0kBipguL9X3B4idnngV6kH3
+vd1knzcTINNh9B8w3uN1uePPQ6dy1YHWnjnh3OSrRe/YnVhf05aHONYlxZ2tqAPm
+4uRl7d6vAgLdnPaCeYrYOB8YvI4ooJYrMLUc7WfH
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            67:8e:08:aa:03:f0:40:59
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN = \E8\BF\A6\E5\8B\92\E5\BA\95\E4\BA\BA\E7\90\86\E6\8B\AF\E6\95\91
+        Validity
+            Not Before: Aug 31 03:45:46 2021 GMT
+            Not After : Aug 29 03:45:46 2032 GMT
+        Subject: CN = \E8\BF\A6\E5\8B\92\E5\BA\95\E4\BA\BA\E7\90\86\E6\8B\AF\E6\95\91
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:8d:46:03:6e:7d:18:84:a0:ef:76:a4:c4:30:a2:
+                    01:ea:19:9e:c6:5d:57:20:dd:19:8d:10:0a:15:ec:
+                    df:45:9c:19:a6:44:db:27:a2:fa:a5:f9:5a:6a:19:
+                    26:4f:c7:c2:8d:03:e6:eb:45:9a:f3:fe:92:09:95:
+                    93:f3:2a:69:a1:42:85:a2:70:b3:61:33:11:56:c8:
+                    11:8b:59:e2:39:bb:08:e3:59:6a:80:1e:13:f5:e8:
+                    ea:7e:37:21:dd:ff:32:53:41:cc:1f:99:aa:db:a5:
+                    e0:f5:e7:8c:97:c5:e3:16:ee:44:f8:a5:ec:32:87:
+                    6a:b1:c7:37:9c:de:cc:51:85:66:49:06:0b:51:6b:
+                    9f:f9:3b:6b:fd:42:66:a3:da:2e:b2:9c:a3:af:a4:
+                    0e:ab:7f:67:fe:50:05:b9:a0:c4:63:74:cc:e6:78:
+                    9e:01:df:4e:ae:f6:00:a8:49:76:bd:95:ed:34:97:
+                    6a:b2:ae:42:70:45:8b:72:f0:b2:4c:9b:4e:59:76:
+                    51:87:cd:df:78:06:05:91:cd:e4:d7:62:fc:9c:b3:
+                    5e:79:34:04:8e:ce:9f:7f:c8:c9:ba:c6:62:3a:62:
+                    ce:af:00:39:28:21:72:fa:58:1f:62:69:0f:51:f9:
+                    73:1d:fa:62:31:5f:9a:a1:3a:2a:7c:51:be:d7:0b:
+                    51:15
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        72:31:bf:aa:7c:05:5a:c2:6a:a9:43:b3:60:07:8b:c9:06:60:
+        ef:f4:5c:25:b7:67:9c:21:33:92:6e:18:a4:c6:0b:dc:ad:82:
+        c3:94:20:15:0e:98:89:da:70:76:40:7c:2f:60:40:3f:f7:35:
+        12:22:74:90:b9:c0:0f:e8:75:f7:85:58:27:61:c4:13:91:34:
+        7f:6e:b4:05:6d:33:b8:e5:d4:9a:32:81:e7:ef:a2:e4:0c:f9:
+        dc:fc:f7:62:56:55:ae:c7:50:4d:01:1f:91:f4:50:3b:97:02:
+        8c:4f:b9:02:50:29:2a:07:f9:37:be:eb:b2:ac:6b:c4:dc:3f:
+        0a:ab:79:3d:df:37:63:88:7c:2c:32:92:d4:28:ea:4f:bb:70:
+        c8:58:64:c3:d2:a8:8e:fe:25:81:64:c9:40:91:67:66:b7:49:
+        01:8a:98:2e:2f:d5:f7:07:88:9d:9e:78:15:ea:41:f7:bd:dd:
+        64:9f:37:13:20:d3:61:f4:1f:30:de:e3:75:b9:e3:cf:43:a7:
+        72:d5:81:d6:9e:39:e1:dc:e4:ab:45:ef:d8:9d:58:5f:d3:96:
+        87:38:d6:25:c5:9d:ad:a8:03:e6:e2:e4:65:ed:de:af:02:02:
+        dd:9c:f6:82:79:8a:d8:38:1f:18:bc:8e:28:a0:96:2b:30:b5:
+        1c:ed:67:c7
